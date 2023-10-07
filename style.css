@@ -32,6 +32,12 @@ a {
   color: rgb(246, 243, 227);
 }
 
+@media (max-width: 1300px) {
+  .title {
+    font-size: 25px;
+  }
+}
+
 .main {
   display: flex;
   flex-direction: column;
