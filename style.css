@@ -22,11 +22,12 @@ a {
 
 .header {
   width: 100%;
+}
+.title {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.title {
   font-size: 60px;
   color: rgb(246, 243, 227);
 }
